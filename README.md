@@ -7,10 +7,11 @@ Any additional resources and suggestions are welcome, with the following caveats
 With that out of the way, here's the content y'all are looking for!
 # Resources
 ## Supradarky's VGM Channel
-Link: <https://www.youtube.com/channel/UCjK21_hU5sQoVyxTf5eRU3Q/>\  
+Link: <https://www.youtube.com/channel/UCjK21_hU5sQoVyxTf5eRU3Q/>
+
 While obviously not the first channel (that got taken down), the channel lives on through Supra's new channel!
 ## Best VGM List
-Link: <https://supradarky-archive.netlify.app/>\
+Link: <https://supradarky-archive.netlify.app/>\  
 A cross-referencable site format with comments, allowing grouping by platform, game, composer, and year. Also features a random VGM pick option!
 
 Link: <https://docs.google.com/spreadsheets/d/1w1xuN1bKAS1c3Hg5ls2tHtZGiKcrKhhogm35bmIzep0/>\
