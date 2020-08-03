@@ -41,4 +41,4 @@ Link: <https://gist.github.com/dem1995/68a595785870d554cd81524daacfed5a>
 A list of every SD video title and video address at time of site takedown.
 
 # Contact
-Inquiries and suggestions for the page may be addressed to Dawn at https://github.com/dem1995. Alternatively, they can be issued directly as pull requests/feature suggestions on the site's [repository](https://github.com/dem1995/supra-vgmdium-compendium) directly!
+Inquiries and suggestions for the page may be addressed to Dawn at <https://github.com/dem1995>. Alternatively, they can be issued directly as pull requests/feature suggestions on the site's [repository](https://github.com/dem1995/supra-vgmdium-compendium) directly!
