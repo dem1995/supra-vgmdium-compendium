@@ -11,13 +11,13 @@ Link: <https://www.youtube.com/channel/UCjK21_hU5sQoVyxTf5eRU3Q/>
 
 While obviously not the first channel (that got taken down), the channel lives on through Supra's new channel!
 ## Best VGM List
-Link: <https://supradarky-archive.netlify.app/>\  
+Link: <https://supradarky-archive.netlify.app/>  
 A cross-referencable site format with comments, allowing grouping by platform, game, composer, and year. Also features a random VGM pick option!
 
-Link: <https://docs.google.com/spreadsheets/d/1w1xuN1bKAS1c3Hg5ls2tHtZGiKcrKhhogm35bmIzep0/>\
+Link: <https://docs.google.com/spreadsheets/d/1w1xuN1bKAS1c3Hg5ls2tHtZGiKcrKhhogm35bmIzep0/>  
 A spreadsheet (Google Sheet) with columns for SDBVGM #, SD label (i.e. \[GOTY 2012 #10\] Best VGM 1263), piece title,  game of origin, composer, release platform, and year of relase. 
 
-Link: <https://docs.google.com/document/d/1KdqfRl28uZ3pG4wOB59b98y0pzkgLHhIFGnq4oK4q_Y/>\
+Link: <https://docs.google.com/document/d/1KdqfRl28uZ3pG4wOB59b98y0pzkgLHhIFGnq4oK4q_Y/>  
 A lovingly-compiled Google Doc with color-coded entries for each Best VGM entry. Also contains the very best VGM of all time featured prominently at the top of the document!
 
 ## Relaxin' with SD List
