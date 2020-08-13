@@ -13,7 +13,7 @@ While obviously not the first channel (that got taken down), the fun lives on th
 Link: <https://supradarky-archive.netlify.app/>  
 A cross-referencable site format with comments, allowing grouping by platform, game, composer, and year. Also features a random VGM pick option!
 
-Link: <https://docs.google.com/spreadsheets/d/1w1xuN1bKAS1c3Hg5ls2tHtZGiKcrKhhogm35bmIzep0/>  
+Link: <https://docs.google.com/spreadsheets/d/1Hl11drnPsymQADL1c7bP7p53AU0udT63uEsvyyS2F70/>  
 A spreadsheet (Google Sheet) with columns for SDBVGM #, SD label (i.e. \[GOTY 2012 #10\] Best VGM 1263), piece title,  game of origin, composer, release platform, and year of relase. 
 
 Link: <https://docs.google.com/document/d/1KdqfRl28uZ3pG4wOB59b98y0pzkgLHhIFGnq4oK4q_Y/>  
