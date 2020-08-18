@@ -27,18 +27,18 @@ A Google Doc with color-coded entries for each of the tracks in SD's "Relaxin' w
 Link: <https://supradarky-archive.netlify.app/>  
 A BVGM cross-referencable site format with comments, allowing grouping by platform, game, composer, and year. Also features a random VGM pick option!
 
-Link: <https://github.com/dem1995/supradarky-best-vgm-comments>  
+Link: <https://github.com/dem1995/supradarky-best-vgm-comments/>  
 A channel-wide collection of the comments for each of SD's videos at time of takedown. Includes comments for videos not part of the BVGM list.
 
-Link: <https://github.com/goomzilla/SupraDarky-Best-VGM-Descriptions-Dates-Top-Comments>  
+Link: <https://github.com/goomzilla/SupraDarky-Best-VGM-Descriptions-Dates-Top-Comments/>  
 Readability-formatted list of the Best VGM entries with roughly the top 20 comments for each.
 
 ## Miscellaneous
-Link: <https://github.com/twiertzema/save-supra>  
+Link: <https://github.com/twiertzema/save-supra/>  
 A comprehensive trawl of Supra's channel. Primarily for usage for computationally-aided reconstruction (as in the Netlify webpage)
 
-Link: <https://gist.github.com/dem1995/68a595785870d554cd81524daacfed5a>  
+Link: <https://gist.github.com/dem1995/68a595785870d554cd81524daacfed5a/>  
 A list of every SD video title and video address at time of site takedown.
 
 # Contact
-Inquiries and suggestions for the page may be addressed to Dawn at <https://github.com/dem1995>. Alternatively, they can be issued directly as pull requests/feature suggestions on the site's [repository](https://github.com/dem1995/supra-vgmdium-compendium) directly!
+Inquiries and suggestions for the page may be addressed to Dawn at <https://github.com/dem1995/>. Alternatively, they can be issued directly as pull requests/feature suggestions on the site's [repository](https://github.com/dem1995/supra-vgmdium-compendium/) directly!
