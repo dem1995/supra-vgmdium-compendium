@@ -9,15 +9,21 @@ With that out of the way, here's the content y'all are looking for!
 ## Supradarky's VGM Channel
 Link: <https://www.youtube.com/channel/UCjK21_hU5sQoVyxTf5eRU3Q/>  
 While obviously not the first channel (that got taken down), the fun lives on through Supra's new channel!
-## Best VGM List
+#### Archive Web-App
 Link: <https://supradarky-archive.netlify.app/>  
 A cross-referencable site format with comments, allowing grouping by platform, game, composer, and year. Also features a random VGM pick option!
 
+#### All-Track Spreadsheet  
 Link: <https://docs.google.com/spreadsheets/d/1Hl11drnPsymQADL1c7bP7p53AU0udT63uEsvyyS2F70/>  
 A spreadsheet (Google Sheet) with columns for SDBVGM #, SD label (i.e. \[GOTY 2012 #10\] Best VGM 1263), piece title,  game of origin, composer, release platform, and year of relase. 
 
+#### Color-Coded Tracks  
 Link: <https://docs.google.com/document/d/1KdqfRl28uZ3pG4wOB59b98y0pzkgLHhIFGnq4oK4q_Y/>  
 A lovingly-compiled Google Doc with color-coded entries for each Best VGM entry. Also contains the very best VGM of all time featured prominently at the top of the document!
+
+#### In-Game Track Locations  
+Link: <https://docs.google.com/spreadsheets/d/1KCxJ0BCaHtupXAv8TUUP-1RzbjJd0ZPI2_K9PrP90p0/>
+A Google Sheet detailing the locations that the Best VGM tracks play within each game
 
 ## Relaxin' with SD List
 Link: <https://docs.google.com/document/d/1i7rWZZ3wxksysZR7RpGVArVFMZBb28PCXXW6Ja9YOnY/>  
