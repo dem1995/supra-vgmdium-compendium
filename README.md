@@ -1,8 +1,8 @@
 # Preface
-Howdy! This is a collection of resources related to Supradarky's VGM Channel(s).
+Howdy! This website documents a collection of resources related to Supradarky's VGM Channel(s).
 Any additional resources and suggestions are welcome, with the following caveats:
 * This page is not for linking to downloads of copyrighted resources
-* The resources this page links to have different maintainers; inquiries should be addressed dependent on the resource in question
+* The resources this page links to have different maintainers; inquiries should be addressed according to the resource in question
 
 With that out of the way, here's the content y'all are looking for!
 # Resources
@@ -15,7 +15,7 @@ A cross-referencable site format with comments, allowing grouping by platform, g
 
 #### All-Track Spreadsheet  
 Link: <https://docs.google.com/spreadsheets/d/1Hl11drnPsymQADL1c7bP7p53AU0udT63uEsvyyS2F70/>  
-A spreadsheet (Google Sheet) with columns for SDBVGM #, SD label (i.e. \[GOTY 2012 #10\] Best VGM 1263), piece title,  game of origin, composer, release platform, and year of relase. 
+A spreadsheet (Google Sheet) with columns for SDBVGM #, SD label (i.e. \[GOTY 2012 #10\] Best VGM 1263), piece title, game of origin, composer, release platform, and year of release. 
 
 #### Color-Coded Tracks  
 Link: <https://docs.google.com/document/d/1KdqfRl28uZ3pG4wOB59b98y0pzkgLHhIFGnq4oK4q_Y/>  
