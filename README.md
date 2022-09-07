@@ -23,7 +23,7 @@ A lovingly-compiled Google Doc with color-coded entries for each Best VGM entry.
 
 #### In-Game Track Locations  
 Link: <https://docs.google.com/spreadsheets/d/1KCxJ0BCaHtupXAv8TUUP-1RzbjJd0ZPI2_K9PrP90p0/>
-A Google Sheet detailing the locations that the Best VGM tracks play within each game
+A Google Sheet detailing the locations that the Best VGM tracks play within each game. Also features some fun alternative game names!
 
 ## Relaxin' with SD List
 Link: <https://docs.google.com/document/d/1i7rWZZ3wxksysZR7RpGVArVFMZBb28PCXXW6Ja9YOnY/>  
