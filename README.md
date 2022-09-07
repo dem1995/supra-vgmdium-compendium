@@ -1,8 +1,7 @@
 ---
 title: SD VGMdium Compendium
 description: A compendium of resources for Supradarky's VGM channel
-theme: jekyll-theme-leap-day
-----
+---
 
 # Preface
 Howdy! This website documents a collection of resources related to Supradarky's VGM Channel(s).
